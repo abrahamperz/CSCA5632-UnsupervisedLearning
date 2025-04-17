@@ -1,7 +1,7 @@
 # Customer Segmentation with Unsupervised Learning
 
 ## Course Overview
-This project is part of **CSCA 5632: Introduction to Machine Learning: Unsupervised Learning**, a course offered by CU Boulder.
+This project is part of **CSCA 5632: Unsupervised Learning**, a course offered by CU Boulder.
 - Theoretical and practical foundations of unsupervised learning using Python and Jupyter Notebook.
 - Machine learning models such as K-Means Clustering, DBSCAN, Hierarchical Clustering, and Principal Component Analysis (PCA).
 
